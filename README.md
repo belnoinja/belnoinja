@@ -1,6 +1,9 @@
 # 💫 About Me:
-Integrated B.Tech + MBA student at IIIT Gwalior, passionate about full-stack development.<br><br>🛠 Skilled in React, Node.js, Express, MongoDB, and Tailwind; love building scalable web apps.<br><br>💼 Backend Engineer intern at Nani’s Bilona Ghee – automated orders via WhatsApp API & Razorpay.<br><br>🌐 Worked on Inter-IIIT fest site with 2000+ users; focus on pixel-perfect, responsive design.<br><br>👯 Open to collaboration on open-source projects, hackathons, and API-driven web platforms.<br><br> completed Skyscanner Frontend Virtual Experience via Forage.
+Integrated B.Tech + MBA student at IIIT Gwalior, passionate about full-stack development.<br><br>🛠 Skilled in React, Node.js, Express, MongoDB, and Tailwind; love building scalable web apps.<br><br>💼 Backend Engineer intern at Nani’s Bilona Ghee – automated orders via WhatsApp API & Razorpay.<br><br>🌐 Worked on Inter-IIIT fest site with 2000+ users; focus on pixel-perfect, responsive design.<br><br>👯 Open to collaboration on open-source projects, hackathons, and API-driven web platforms.<br><br> Completed Skyscanner Frontend Virtual Experience via Forage.
 
+
+## 📃 Resume:
+[![Resume](https://img.shields.io/badge/Resume-lime)](https://drive.google.com/file/d/1C7uzRrmvbdZeYfIqsbv23Mz-DW-iLhPz/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jn_07naman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naman-jain-1ba2551b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jain2511naman@gmail.com) 
